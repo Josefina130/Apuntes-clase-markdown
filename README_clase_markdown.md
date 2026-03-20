@@ -14,12 +14,13 @@ encabezados con # y el texto
 ##texto 
 
 ###texto
-formato de texto, negrita dos asteriscos texto dos asteriscos  **texto**  
+
+formato de texto, negrita dos asteriscos texto dos asteriscos  **texto**   
 cursiva un asterisco texto un asterisco *texto*,  
-negrita y cursiva tres asteriscos texto y tres asteriscos ***texto***,  
-tachado dos ondas texto dos ondas ~~texto~~ para hacer las ondas es option y asterisco,  
-escapado de simbolos slash alreves # texto 
-viñetas con asteriscos
+negrita y cursiva tres asteriscos texto y tres asteriscos ***texto***,   
+tachado dos ondas texto dos ondas ~~texto~~ para hacer las ondas es option y asterisco,   
+escapado de simbolos slash alreves # texto  
+viñetas con asteriscos  
 *elemento a
 
 *elemento b
