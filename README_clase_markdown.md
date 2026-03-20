@@ -1,3 +1,55 @@
-# Apuntes-clase-markdown    Mrkdown es un lenguaje ligero, una forma de escribir texto con formato. separar dos prarrafos presionar enter dos veces y confirmar cambios  
+# Apuntes-clase-markdown   
 
-mdj
+Markdown es un lenguaje ligero, una forma de escribir texto con formato. separar dos prarrafos presionar enter dos veces y confirmar cambios  
+
+texto baje a la siguiente linea sin dejar un parrafo, debes poner dos espacios en blanco al final de la frase y presionar enter  
+forzar el salto <br>
+linea poner tres guiones y dos enter 
+---
+
+encabezados con # y el texto  
+
+#texto  
+
+##texto 
+
+###texto
+formato de texto, negrita dos asteriscos texto dos asteriscos  **texto**  
+cursiva un asterisco texto un asterisco *texto*,  
+negrita y cursiva tres asteriscos texto y tres asteriscos ***texto***,  
+tachado dos ondas texto dos ondas ~~texto~~ para hacer las ondas es option y asterisco,  
+escapado de simbolos slash alreves # texto 
+viñetas con asteriscos
+*elemento a
+
+*elemento b
+
+*elementoc
+
+para hacer hacia adentro dos espacios y asteriscos
+
+  *subelemento c1
+
+  con numeros es el numero y un punto
+  1. elemento1  
+  2. elemento2  
+     2.1 elemento  
+     2.2 elemento
+    
+subelemento es dos espacios enter poner los dos espacios denuevo arriba y abajo cuatro espacios
+
+links e imagenes
+
+link corchete nombre de la web corchete
+
+[
+(https://github.com/Josefina130)]
+
+
+imagen simbolo de exclamacion corchete texto alternativo corchete 
+
+![[
+](https://es.wikipedia.org/wiki/Felis_catus#/media/Archivo:Cat_November_2010-1a.jpg)]
+
+
+imagen con link corchete simbolo de exclamacion corchete texto alternativo corchete [![
