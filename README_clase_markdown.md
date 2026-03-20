@@ -42,14 +42,16 @@ links e imagenes
 
 link corchete nombre de la web corchete
 
-[
-(https://github.com/Josefina130)]
+[perfil de github](https://github.com/Josefina130)
 
 
 imagen simbolo de exclamacion corchete texto alternativo corchete 
 
-![[
-](https://es.wikipedia.org/wiki/Felis_catus#/media/Archivo:Cat_November_2010-1a.jpg)]
+![gato](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg)
+
+imagen con link corchete ! corchete texto alternativo corchete [![
 
 
-imagen con link corchete simbolo de exclamacion corchete texto alternativo corchete [![
+[![ gato a wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/250px-Cat_November_2010-1a.jpg)](https://es.wikipedia.org/wiki/Felis_catus#/media/Archivo:Cat_November_2010-1a.jpg)
+
+`
